@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JwtLogin</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_password">Show password</string>
+
+    <string name="invalid_credentials">Invalid username or password.</string>
+    <string name="no_internet">Connection broken. Verify that you are connected to the internet.</string>
+    <string name="unknown_error">Unexpected error.</string>
+
+    <string name="role">Role</string>
+</resources>
